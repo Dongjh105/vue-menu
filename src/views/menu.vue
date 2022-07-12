@@ -45,7 +45,7 @@ export default {
   data() {
     return {
       menus: [] /**router定义的路由组件 */,
-      active: "",
+      active: "./outline",
     };
   },
   created() {
