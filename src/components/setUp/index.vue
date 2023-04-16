@@ -1,3 +1,3 @@
 <template lang="">
-  <div>set up!</div>
+  <div>set up! // git</div>
 </template>
